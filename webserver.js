@@ -1,5 +1,5 @@
 const express = require('express')
-const fs = require('fs');
+const fs = require('fs')
 
 // Create a new express application
 const app = express()
